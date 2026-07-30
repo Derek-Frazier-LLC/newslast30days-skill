@@ -9,6 +9,7 @@ Agent Skills package for researching any topic across Reddit, X, YouTube, and we
 - `skills/last30days/scripts/lib/vendor/bird-search/` — vendored X search client
 - `docs/solutions/` — documented solutions to past problems (bugs, best practices, workflow patterns), organized by category with YAML frontmatter (`module`, `tags`, `problem_type`)
 - `CONCEPTS.md` — shared domain vocabulary (Skill, Engine, Harness, Beta channel) — relevant when orienting to the codebase or discussing project terminology
+- `BUSINESS-CONVERGENCE.md` — alignment between last30days skill and Freedom 1 business plan (KSIs, assets, and freemium stack)
 - `CONFIGURATION.md` — user-facing knobs (env vars, flags, per-host install patterns); keep in sync per the rules below
 - `CHANGELOG.md` — structured release history (launch copy lives in GitHub Releases)
 - `HERMES_SETUP.md` — install instructions for the Hermes harness specifically
